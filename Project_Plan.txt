@@ -1,0 +1,4 @@
+Project Plan
+
+Objective: Track PMO project assets using Github.
+Status: Initial planning started.
